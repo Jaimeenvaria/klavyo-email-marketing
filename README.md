@@ -56,8 +56,8 @@ npm install n8n-nodes-klaviyo
 
 ```bash
 # Clone the repository
-git clone https://github.com/Velocity-BPA/n8n-nodes-klaviyo.git
-cd n8n-nodes-klaviyo
+git clone https://github.com/Jaimeenvasaa/klavyo-email-marketing.git
+cd klavyo-email-marketing
 
 # Install dependencies
 npm install
@@ -389,9 +389,9 @@ npm run format
 
 ## Author
 
-**Velocity BPA**
-- Website: [velobpa.com](https://velobpa.com)
-- GitHub: [Velocity-BPA](https://github.com/Velocity-BPA)
+**Jaimeen_vasa**
+- Website: [jaimeen_vasa.com](https://jaimeenvasa-portfolio.vercel.app/)
+- GitHub: [jaimeenvasaa](https://github.com/jaimeenvasaa)
 
 ## Licensing
 
@@ -403,7 +403,7 @@ Permitted for personal, educational, research, and internal business use.
 ### Commercial Use
 Use of this node within any SaaS, PaaS, hosted platform, managed service, or paid automation offering requires a commercial license.
 
-For licensing inquiries: **licensing@velobpa.com**
+For licensing inquiries: **jaimeenvasa09@gmail.com**
 
 See [LICENSE](LICENSE), [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md), and [LICENSING_FAQ.md](LICENSING_FAQ.md) for details.
 
@@ -423,7 +423,7 @@ Please ensure:
 ## Support
 
 - **Documentation**: [Klaviyo API Docs](https://developers.klaviyo.com/en)
-- **Issues**: [GitHub Issues](https://github.com/Velocity-BPA/n8n-nodes-klaviyo/issues)
+- **Issues**: [GitHub Issues](https://github.com/jaimeenvasaa/klavyo-email-marketing/issues)
 - **n8n Community**: [n8n Community Forum](https://community.n8n.io)
 
 ## Acknowledgments
