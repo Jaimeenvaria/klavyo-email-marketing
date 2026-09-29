@@ -1,12 +1,4 @@
-# n8n-nodes-klaviyo
 
-> [Velocity BPA Licensing Notice]
->
-> This n8n node is licensed under the Business Source License 1.1 (BSL 1.1).
->
-> Use of this node by for-profit organizations in production environments requires a commercial license from Velocity BPA.
->
-> For licensing information, visit https://velobpa.com/licensing or contact licensing@velobpa.com.
 
 A comprehensive n8n community node for Klaviyo, the leading email and SMS marketing automation platform for e-commerce businesses. This node provides complete access to Klaviyo's API for managing profiles, lists, segments, campaigns, flows, events, catalogs, templates, and more.
 
